@@ -1,0 +1,149 @@
+
+.products-section-heading {
+    font-size: 32px;
+    font-weight: 600;
+    color: #183b56;
+    font-family: Roboto;
+}
+
+#product-card-1 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663250955/Vegetarian-dishes-foodiewish_lsfk1x.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-2 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663250955/59862336_thlkdt.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-3 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663251104/idli-vada-sambhar-25427118_acqmqm.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-4 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663251156/Dalia-Upma-3-500x500_lfi7vs.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-5 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663255284/63841432_kpn26b.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-6 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663255528/61051454_wivwsh.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-7 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663250455/pexels-photo-725991_a4dtav.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-8 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663250456/photo_ojoe6g.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-9 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663249233/portfolio_gei2du.webp");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-10 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663265764/56018168_hopggp.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-11 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663266081/1507827359-crab-cake-burgers-delish_cqzlr8.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-12 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663266969/Fraise1_tydvea.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-13 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663266947/easter-cakes-1649781944.jpeg_rvkkxb.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+#product-card-14 {
+    border-radius: 10px;
+    background-image: url("https://res.cloudinary.com/dxyksphoo/image/upload/v1663266932/LadyBaltimore_HERO_052522_34846_eioh1m.jpg");
+    padding: 10px;
+    height: 240px;
+    background-size: cover;
+}
+
+.products-card-heading {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.products-card-discription {
+    color: white;
+    font-size: 18px;
+}
+
+.products-card-button {
+    background-color: white;
+    border-style: none;
+    padding: 6px;
+    width: 120px;
+    border-radius: 7px;
+    color: #ff9f00;
+}
+
+.product-model-discription {
+    color: #323f4b;
+    font-size: 12px;
+}
+.back-button{
+    border-style: none;
+    border-radius: 8px;
+    margin-right: 6px;
+}
